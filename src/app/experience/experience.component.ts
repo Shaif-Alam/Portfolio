@@ -63,6 +63,13 @@ export class ExperienceComponent implements OnInit {
       showMore: false
     },
     {
+      name: 'E-Commerce',
+      image: '../../assets/Projects/Entwickler.png',
+      description: `Developed Entwickler Assesment, an AI-powered web application integrated with Google services, built from scratch using Angular frontend and Node.js backend. Designed the user interface in Figma, implemented a microservices architecture, and set up CI/CD pipelines for automated deployment. Delivered a responsive, user-friendly experience while integrating AI features for intelligent content generation and seamless project functionality.`,
+      link: 'https://entwickler.vercel.app/',
+      showMore: false
+    },
+    {
       name: 'Upcoming',
       image: '../../assets/Projects/upcoming.png',
       description: `A new one is about to arrive.`,
